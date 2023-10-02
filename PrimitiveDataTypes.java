@@ -59,7 +59,6 @@ class PrimitiveDataTypes{
         System.out.println(fValue);
         System.out.println(dValue);
 
-
         //Single Character
         System.out.println("\n********** Char : Examples **********");
         char c = 'A';
